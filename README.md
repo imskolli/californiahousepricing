@@ -6,13 +6,17 @@
 
 This project implements an end-to-end machine learning solution for predicting house prices in California. It consists of the following key components:
 
-Linear Regression Model: In the first step, a Linear Regression machine learning model is developed using Python. The model is trained on a dataset containing various features of houses, such as location, number of bedrooms, square footage, and more. The trained model is saved as a pickle file for later use.
+## Linear Regression Model: 
+In the first step, a Linear Regression machine learning model is developed using Python. The model is trained on a dataset containing various features of houses, such as location, number of bedrooms, square footage, and more. The trained model is saved as a pickle file for later use.
 
-Web Application: A web application is created using the Flask framework. This application allows users to input information about a house and receive a predicted price based on the trained Linear Regression model. The web interface is intuitive and user-friendly, making it easy for anyone to get house price predictions.
+## Web Application:
+A web application is created using the Flask framework. This application allows users to input information about a house and receive a predicted price based on the trained Linear Regression model. The web interface is intuitive and user-friendly, making it easy for anyone to get house price predictions.
 
-Dockerization: The entire web application is containerized using Docker. This means that you can package the application and its dependencies into a Docker image, ensuring consistent and reliable deployment across different environments.
+## Dockerization:
+The entire web application is containerized using Docker. This means that you can package the application and its dependencies into a Docker image, ensuring consistent and reliable deployment across different environments.
 
-Deployment on Heroku: The Dockerized web application is deployed on the Heroku platform. Heroku provides a convenient and scalable platform for hosting web applications, making it accessible to users on the internet.
+## Deployment on Heroku:
+The Dockerized web application is deployed on the Heroku platform. Heroku provides a convenient and scalable platform for hosting web applications, making it accessible to users on the internet.
 
 How to Use
 To use this project, follow these steps:
