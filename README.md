@@ -1,5 +1,7 @@
 # California house pricing
 
+# End to End project implementation from machine learning model development to Flask web application deployment as a docker container to Heroku
+
 # House Price Prediction in California
 
 ![end-to-end-ml-project drawio](https://github.com/satishkolli1992/californiahousepricing/assets/40614187/defba9a5-4606-4d14-8c38-9a37a75772f3)
