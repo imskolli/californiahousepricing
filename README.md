@@ -2,7 +2,7 @@
 
 # House Price Prediction in California
 
-![California Housing](california.jpg)
+![end-to-end-ml-project drawio](https://github.com/satishkolli1992/californiahousepricing/assets/40614187/defba9a5-4606-4d14-8c38-9a37a75772f3)
 
 This project implements an end-to-end machine learning solution for predicting house prices in California. It consists of the following key components:
 
