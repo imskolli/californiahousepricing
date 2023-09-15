@@ -1,4 +1,4 @@
-# californiahousepricing
+# California house pricing
 
 # House Price Prediction in California
 
